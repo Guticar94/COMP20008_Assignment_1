@@ -127,3 +127,19 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Ignore venv
+./venv/
+venv
+
+# Created files
+*.json
+*.csv
+*.docx
+*.png
+*.jpg
+*.jpeg
+
+# Local cahce
+.DS_*
